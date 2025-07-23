@@ -27,15 +27,19 @@ AutoExtract Medical Services is a Java application that automatically extracts a
 - Maven 3.6+
 
 ### Quick Start
-```sh
+
 # Clone repository
 
 # Build and run
+```sh
 mvn clean package
 java -jar target/autoextract-1.0-jar-with-dependencies.jar
+```
 
 # Running with Maven:
+```sh
 mvn compile exec:java
+```
 
 ### Roadmap
 
