@@ -16,7 +16,7 @@ AutoExtract Medical Services is a Java application designed to automate the extr
 1. Clone or download this repository.
 2. Ensure the following files are in the same directory:
    - `AutoExtract.java`
-   - `patient_example.txt`
+   - `Your pdf file you would like to extract from`
 3. Compile the Java file:
    ```sh
    javac AutoExtract.java
@@ -25,7 +25,7 @@ AutoExtract Medical Services is a Java application designed to automate the extr
    ```sh
    java AutoExtract
    ```
-5. The application will read `patient_example.txt` and display the extracted patient information in the console.
+5. The application will read `(your pdf)` and display the extracted patient information in the console.
 
 ## Example Input File (`patient_example.txt`)
 ```
@@ -50,7 +50,7 @@ Notes: Patient reports mild headache, no chest pain or shortness of breath.
 - **Summarization & Alerts:** Use AI models to generate clinical summaries and real-time alerts.
 
 ## License
-MIT License
+No License.
 
 ## Contact
-For questions or collaboration, please contact Jason Ho. 
+For questions or collaboration, please contact Jason He. Version two is coming soon!
